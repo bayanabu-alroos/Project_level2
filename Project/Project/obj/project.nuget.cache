@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjuKaQUZHD6ENKDN4MzrUPU2wy0us/iZlHa9Jz41r/As6aL52XWh6WgZnYQLuvzWY2hPGeW34T3qGOEkuZeMzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bayan\\OneDrive\\Desktop\\C# Training\\Project\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bayan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayan\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
