@@ -40,9 +40,9 @@ namespace Project.Classes
         }
 
 
-        public static async Task<List<M>> ReadFile<M>(string folderPath, string fileName)
+        public static async Task<List<M>> ReadFile<M>(string fullPath)
         {
-            var fullPath = Path.Combine(folderPath, fileName);
+            //var fullPath = Path.Combine(folderPath, fileName);
             var result = new List<M>();
 
             if (File.Exists(fullPath))
